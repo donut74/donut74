@@ -1,9 +1,12 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=fec700&height=180&text=Seohyeon's%20GitHub&animation=fadeIn&fontColor=ffaa00&fontSize=50" />
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 내내내냉 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 냐냐ㅑ냐냨 </div> 
+    <div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 About Me</h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        숙명여자대학교 IT공학전공 재학 중입니다.<br>
+        사용자 경험을 중심으로 생각하는 프론트엔드 개발자를 목표로 하고 있습니다.<br>
+        React, React Native 기반의 UI 구현에 관심이 많습니다.
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
